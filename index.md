@@ -1,5 +1,5 @@
 
-## Education 
+## EDUCATION 
 - University of Southern California (USC)    08/2019 - Expected 05/2021
   *	Master in Computer Science
 - Xiamen University (XMU)                    09/2015 - 06/2019
