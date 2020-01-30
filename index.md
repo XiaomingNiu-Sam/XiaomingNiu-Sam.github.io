@@ -4,8 +4,11 @@
 
 ## Education 
 - University of Southern California (USC)    08/2019 - Expected 05/2021
+  *	Master in Computer Science
 - Xiamen University (XMU)                    09/2015 - 06/2019
+  * B.E. in Electronic Information Science and Technology
 - University of California, San Diego (UCSD) 09/2017 - 12/2017
+  * The University and Professional Studies Program (Funded by XMU)
 
 ---
 
