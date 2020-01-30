@@ -3,11 +3,11 @@
 ---
 
 ## Education 
-- **University of Southern California (USC)    08/2019 - Expected 05/2021**
+- University of Southern California (USC)    08/2019 - Expected 05/2021
   *	Master in Computer Science
-- **Xiamen University (XMU)                    09/2015 - 06/2019**
+- Xiamen University (XMU)                    09/2015 - 06/2019
   * B.E. in Electronic Information Science and Technology
-- **University of California, San Diego (UCSD) 09/2017 - 12/2017**
+- University of California, San Diego (UCSD) 09/2017 - 12/2017
   * The University and Professional Studies Program (Funded by XMU)
 
 ---
@@ -21,7 +21,7 @@
 
 ---
 ## PROJECT EXPERIENCE
-**[Yelp+: Java Web Service Development - Event Search and Recommendation](http://13.57.35.36/EventRecommender/)   04/2019 - 05/2019**
+[Yelp+: Java Web Service Development - Event Search and Recommendation](http://13.57.35.36/EventRecommender/)   04/2019 - 05/2019
 - Developed a dynamic web application for users to search for events and update preferences.
 - Improved personalized event recommendation based on favorite records.
 #### Back End:
@@ -32,14 +32,14 @@
 #### Front End:
 - Designed an interactive web page utilizing AJAX with HTML, CSS and JavaScript.
 
-**[Full-stack E-commerce Web Application](http://crwn-samniu.herokuapp.com/)  01/2019 - 02/2019**
+[Full-stack E-commerce Web Application](http://crwn-samniu.herokuapp.com/)  01/2019 - 02/2019
 - Developed a large E-commerce web application utilizing React.
 - Implemented the user authentication (Google Sign-In) and shop database storage with Firebase.
 - Implemented the online payment service with Stripe API.
 - Built an organized state management using Redux and tested the web application with Jest.
 - Deployed server side to Heroku.
 
-**LBS-based Social Networking Android Application                                09/2018 - 11/2018**
+LBS-based Social Networking Android Application                                09/2018 - 11/2018
 - Developed an Android application for users to report events and search nearby events.
 - Implemented views to report new events, show details of clicked events and make comments or likes.
 - Integrated Google Map API to track current user’s location and display and navigate nearby hot events.
@@ -49,5 +49,5 @@
 ---
 
 ## PROFESSIONAL SKILLS
-- **Skills**: Java, C++, HTML, CSS, JavaScript, React, Node JS, Android Development, MySQL, MongoDB 
-- **Tools**: Apache Tomcat, Amazon EC2, Heroku, Firebase, Google AdMob, Android Studio, Eclipse
+- Skills: Java, C++, HTML, CSS, JavaScript, React, Node JS, Android Development, MySQL, MongoDB 
+- Tools: Apache Tomcat, Amazon EC2, Heroku, Firebase, Google AdMob, Android Studio, Eclipse
