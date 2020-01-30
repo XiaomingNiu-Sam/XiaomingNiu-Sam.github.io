@@ -2,11 +2,11 @@
 
 ---
 
-### Category Name 1 
+### Education 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+<br>University of Southern California (USC) 08/2019 - Expected 05/2021<br>
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Experience
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
