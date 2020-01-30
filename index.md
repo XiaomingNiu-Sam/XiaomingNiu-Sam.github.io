@@ -4,9 +4,10 @@
 
 ### Education 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-<br>University of Southern California (USC) 08/2019 - Expected 05/2021<br>
+[Education](/sample_page)
+- University of Southern California (USC)    08/2019 - Expected 05/2021
+- Xiamen University (XMU)                    09/2015 - 06/2019
+- University of California, San Diego (UCSD) 09/2017 - 12/2017
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
