@@ -16,33 +16,27 @@
 - Improve video quality under low-light conditions by adding three different mode settings on the App: sunny mode, cloudy mode, and night mode. 
 - Test camera settings to provide a clear view of the license plate of a vehicle, without creating out-of-frame issues by setting camera zoom to 40 percent of the maximum on devices.
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
 ---
-## WORK EXPERIENCE
-#### [Yelp+: Java Web Service Development - Event Search and Recommendation](http://13.57.35.36/EventRecommender/)   04/2019 - 05/2019
+## PROJECT EXPERIENCE
+[Yelp+: Java Web Service Development - Event Search and Recommendation](http://13.57.35.36/EventRecommender/)   04/2019 - 05/2019
 - Developed a dynamic web application for users to search for events and update preferences.
 - Improved personalized event recommendation based on favorite records.
-##### Back End:
+#### Back End:
 - Created Java servlets with RESTful APIs to handle HTTP requests and responses.
 - Built both MySQL and MongoDB to capture real events data from TicketMaster API.
 - Designed content-based recommendation algorithms based on categories and distance of events.
 - Deployed server side to Amazon EC2.
-##### Front End:
+#### Front End:
 - Designed an interactive web page utilizing AJAX with HTML, CSS and JavaScript.
 
-#### [Full-stack E-commerce Web Application](http://crwn-samniu.herokuapp.com/)  01/2019 - 02/2019
+[Full-stack E-commerce Web Application](http://crwn-samniu.herokuapp.com/)  01/2019 - 02/2019 
 - Developed a large E-commerce web application utilizing React.
 - Implemented the user authentication (Google Sign-In) and shop database storage with Firebase.
 - Implemented the online payment service with Stripe API.
 - Built an organized state management using Redux and tested the web application with Jest.
 - Deployed server side to Heroku.
 
-#### LBS-based Social Networking Android Application                                09/2018 - 11/2018
+LBS-based Social Networking Android Application                                09/2018 - 11/2018
 - Developed an Android application for users to report events and search nearby events.
 - Implemented views to report new events, show details of clicked events and make comments or likes.
 - Integrated Google Map API to track current user’s location and display and navigate nearby hot events.
