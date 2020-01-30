@@ -3,17 +3,17 @@
 ---
 
 ## Education 
-- University of Southern California (USC)    08/2019 - Expected 05/2021
+### - University of Southern California (USC)    08/2019 - Expected 05/2021
   *	Master in Computer Science
-- Xiamen University (XMU)                    09/2015 - 06/2019
+### - Xiamen University (XMU)                    09/2015 - 06/2019
   * B.E. in Electronic Information Science and Technology
-- University of California, San Diego (UCSD) 09/2017 - 12/2017
+### - University of California, San Diego (UCSD) 09/2017 - 12/2017
   * The University and Professional Studies Program (Funded by XMU)
 
 ---
 
 ## WORK EXPERIENCE
-#### CarmaCam Inc. 01/2020 - 05/2020
+### CarmaCam Inc. 01/2020 - 05/2020
 - Build functionality to show live traffic data on the Google map view, including a zoom in/out feature. 
 - Collaborate with Machine Learning team to implement the voice activation for drivers to hands-freely control Android App utilizing Yandex SpeechKit.
 - Improve video quality under low-light conditions by adding three different mode settings on the App: sunny mode, cloudy mode, and night mode. 
@@ -49,5 +49,5 @@ LBS-based Social Networking Android Application                                0
 ---
 
 ## PROFESSIONAL SKILLS
-- Skills: Java, C++, HTML, CSS, JavaScript, React, Node JS, Android Development, MySQL, MongoDB 
-- Tools: Apache Tomcat, Amazon EC2, Heroku, Firebase, Google AdMob, Android Studio, Eclipse
+### - Skills: Java, C++, HTML, CSS, JavaScript, React, Node JS, Android Development, MySQL, MongoDB 
+### - Tools: Apache Tomcat, Amazon EC2, Heroku, Firebase, Google AdMob, Android Studio, Eclipse
