@@ -45,3 +45,9 @@ LBS-based Social Networking Android Application                                0
 - Integrated Google Map API to track current user’s location and display and navigate nearby hot events.
 - Used Firebase to store and control User Generated Content (UGC) including titles, descriptions, images, comments and locations.
 - Implemented in-app advertising service using Google AdMob.
+
+---
+
+## PROFESSIONAL SKILLS
+- Skills: Java, C++, HTML, CSS, JavaScript, React, Node JS, Android Development, MySQL, MongoDB 
+- Tools: Apache Tomcat, Amazon EC2, Heroku, Firebase, Google AdMob, Android Studio, Eclipse
