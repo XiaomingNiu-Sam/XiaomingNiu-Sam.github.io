@@ -1,17 +1,26 @@
 # Portfolio
 ---
 ## EDUCATION 
-- University of Southern California (USC)    08/2019 - Expected 05/2021
+- University of Southern California          Aug 2019 - Expected Dec 2021
   *	Master in Computer Science
-- Xiamen University (XMU)                    09/2015 - 06/2019
+  * Mentor in Viterbi School of Engineering Mentorship Program
+- Xiamen University                          Sep 2015 - June 2019
   * B.E. in Electronic Information Science and Technology
-- University of California, San Diego (UCSD) 09/2017 - 12/2017
-  * The University and Professional Studies Program (Funded by XMU)
+- University of California, San Diego        Sep 2017 - Dec 2017
+  * Exchange Student in Computer Science
 
 ---
 
 ## WORK EXPERIENCE
-### CarmaCam Inc. 01/2020 - 05/2020
+### Tencent - Software Engineer                                                        June 2020 - Aug 2020
+### The Largest Social Media & Video Game Company in China                                        Chengdu, China
+•  Joined a team of 7 developers to build a data analytics platform to absorb, discover and visualize game data, which was adopted by 16 teams and 80+ colleagues at the company, using Vue.js and Yii2 frameworks.
+•  Independently developed a data query feature in two modes: Graphical Interface for operation managers and SQL for data scientists.
+•  Built 6 types of charts to parse and display data: Pie Chart, Stacked Bar, Column, Spline, Scatter Plot and Heatmap.
+•  Collaborated with Data Team to do an integration test on querying data from HDFS, and refactored the RESTful API powering the Web client using PHP.
+
+### CarmaCam Inc - Software Engineer                                                  Jan 2020 - May 2020
+### A Smart Dash Cam Startup Company in Los Angeles                                         Los Angeles, California
 - Build functionality to show live traffic data on the Google map view, including a zoom in/out feature. 
 - Collaborate with Machine Learning team to implement the voice activation for drivers to hands-freely control Android App utilizing Yandex SpeechKit.
 - Improve video quality under low-light conditions by adding three different mode settings on the App: sunny mode, cloudy mode, and night mode. 
@@ -19,6 +28,14 @@
 
 ---
 ## PROJECT EXPERIENCE
+Rainbow Fart - VSCode Extension                                                     July 2020 - Present
+•  Developed a funny VSCode extension that keeps giving you compliments while you are coding.
+•  Served as a frequent contributor in this open-source project with 4.1k stars on GitHub.
+•  Fixed 6 issues and developed 10+ functions: entering debounce, volume adjustment, etc.
+
+
+
+
 [Yelp+: Java Web Service Development - Event Search and Recommendation](http://13.57.35.36/EventRecommender/)   04/2019 - 05/2019
 - Developed a dynamic web application for users to search for events and update preferences.
 - Improved personalized event recommendation based on favorite records.
