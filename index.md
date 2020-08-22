@@ -1,5 +1,5 @@
 ## EDUCATION 
-#### University of Southern California&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aug 2019 - Expected Dec 2021
+#### University of Southern California&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aug 2019 - Expected Dec 2021
   -	Master in Computer Science
   - Mentor in Viterbi School of Engineering Mentorship Program
 #### Xiamen University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sep 2015 - June 2019
