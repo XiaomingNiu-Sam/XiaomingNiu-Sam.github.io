@@ -1,17 +1,17 @@
 ## EDUCATION 
-- University of Southern California          Aug 2019 - Expected Dec 2021
-  *	Master in Computer Science
-  * Mentor in Viterbi School of Engineering Mentorship Program
-- Xiamen University                          Sep 2015 - June 2019
-  * B.E. in Electronic Information Science and Technology
-- University of California, San Diego        Sep 2017 - Dec 2017
-  * Exchange Student in Computer Science
+#### University of Southern California          Aug 2019 - Expected Dec 2021
+  -	Master in Computer Science
+  - Mentor in Viterbi School of Engineering Mentorship Program
+#### Xiamen University                          Sep 2015 - June 2019
+  - B.Eng. in Information Science and Technology
+#### University of California, San Diego        Sep 2017 - Dec 2017
+  - Exchange Student in Computer Science
   
 ---
 
 ## PROFESSIONAL SKILLS
-- Languages: Java, JavaScript, PHP, C/C++, HTML5/CSS3, jQuery
-- Technologies: React.js, Vue.js, Node.js, Bootstrap, Yii2, Android Development, MySQL, MongoDB, AWS, Git
+- **Languages:** Java, JavaScript, PHP, C/C++, HTML5/CSS3, jQuery
+- **Technologies:** React.js, Vue.js, Node.js, Bootstrap, Yii2, Android Development, MySQL, MongoDB, AWS, Git
 
 ---
 
