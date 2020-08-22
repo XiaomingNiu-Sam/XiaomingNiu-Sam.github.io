@@ -1,5 +1,5 @@
 ## EDUCATION 
-#### University of Southern California&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aug 2019 - Expected Dec 2021
+#### University of Southern California&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aug 2019 - Expected Dec 2021
   -	Master in Computer Science
   - Mentor in Viterbi School of Engineering Mentorship Program
   
@@ -12,7 +12,7 @@
 ---
 
 ## PROFESSIONAL SKILLS
-- **Languages:** Java, JavaScript, PHP, C/C++, HTML5/CSS3, jQuery
+- **Languages:** Java, JavaScript, PHP, Python, C/C++, HTML5/CSS3, jQuery
 - **Technologies:** React.js, Vue.js, Node.js, Bootstrap, Yii2, Android Development, MySQL, MongoDB, AWS, Git
 
 ---
