@@ -13,7 +13,7 @@
 
 ## PROFESSIONAL SKILLS
 - **Languages:** Java, JavaScript, PHP, Python, C/C++, HTML5/CSS3, jQuery
-- **Technologies:** React.js, Vue.js, Node.js, Bootstrap, Yii2, Android Development, MySQL, MongoDB, AWS, Git
+- **Technologies:** React.js, Vue.js, Node.js, Bootstrap, Jest, Yii2, MapReduce, HDFS, Linux, Android, MySQL, MongoDB, AWS, Git
 
 ---
 
